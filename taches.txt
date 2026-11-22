@@ -1,0 +1,9 @@
+-TACCHE 1 :Cadrage,organisation et problemes métier
+-TACCHE 2 :GCP et droits d’accès
+-TACCHE 3 :Extraction
+-TACCHE 4 :Chargement dans BigQuery
+-TACCHE 5 :Transformations Dataform
+-TACCHE 6 :Couche gold et datamarts
+-TACCHE 7 :Visualisation lookers studio
+-TACCHE 8 :Machine Learning
+-TACCHE 9 :orchestration, CI/CD et documentation
